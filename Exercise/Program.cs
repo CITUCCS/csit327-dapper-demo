@@ -1,4 +1,4 @@
-﻿using DapperExer1.Repositories;
+﻿using DapperDemo.Repositories;
 
 internal class Program
 {

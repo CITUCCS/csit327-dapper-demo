@@ -1,7 +1,7 @@
-﻿using DapperExer1.Context;
-using DapperExer1.Models;
+﻿using DapperDemo.Context;
+using DapperDemo.Models;
 
-namespace DapperExer1.Repositories
+namespace DapperDemo.Repositories
 {
     internal class SchoolRepository : ISchoolRepository
     {

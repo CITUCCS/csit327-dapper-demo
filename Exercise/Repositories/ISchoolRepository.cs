@@ -1,11 +1,11 @@
-﻿using DapperExer1.Models;
+﻿using DapperDemo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DapperExer1.Repositories
+namespace DapperDemo.Repositories
 {
     /// <summary>
     /// Interface for school repository

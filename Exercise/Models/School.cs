@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace DapperExer1.Models
+namespace DapperDemo.Models
 {
     internal class School
     {
